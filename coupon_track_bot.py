@@ -8,12 +8,14 @@ import datetime
 
 
 # bot api
+#-------------------
 # to create bot and get bot_key https://core.telegram.org/bots#6-botfather
 # to get chat_id https://t.me/myidbot
 bot_key = "[bot_key]"
 chat_id = "[chat_id]"
 
 # telegram api
+#-------------------
 # to get api id and hash https://core.telegram.org/api/obtaining_api_id
 api_id = [api_id]
 api_hash = "[api_hash]"
